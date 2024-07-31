@@ -1,4 +1,4 @@
-# Hi there, I'm HyunWoo 👋
+# Hi there, I'm Hyun Woo 👋
 
 🚀 Building innovative ERP systems for diverse industries  
 🌍 Advocate of open-source and cloud-based solutions  
